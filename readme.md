@@ -16,7 +16,7 @@
 
 ## Time taken:
 
-- This project took me 2.5 hours to build from scratch because of correct alignment of items correctly.
+- This project took me around 2hrs to build from scratch because of correct alignment of items correctly.
 
 
 
